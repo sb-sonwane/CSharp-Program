@@ -1,0 +1,15 @@
+D:\C#  Program\Formatting date  and time\bin\Debug\net6.0\Formatting date  and time.exe
+D:\C#  Program\Formatting date  and time\bin\Debug\net6.0\Formatting date  and time.deps.json
+D:\C#  Program\Formatting date  and time\bin\Debug\net6.0\Formatting date  and time.runtimeconfig.json
+D:\C#  Program\Formatting date  and time\bin\Debug\net6.0\Formatting date  and time.dll
+D:\C#  Program\Formatting date  and time\bin\Debug\net6.0\Formatting date  and time.pdb
+D:\C#  Program\Formatting date  and time\obj\Debug\net6.0\Formatting date  and time.csproj.AssemblyReference.cache
+D:\C#  Program\Formatting date  and time\obj\Debug\net6.0\Formatting date  and time.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#  Program\Formatting date  and time\obj\Debug\net6.0\Formatting date  and time.AssemblyInfoInputs.cache
+D:\C#  Program\Formatting date  and time\obj\Debug\net6.0\Formatting date  and time.AssemblyInfo.cs
+D:\C#  Program\Formatting date  and time\obj\Debug\net6.0\Formatting date  and time.csproj.CoreCompileInputs.cache
+D:\C#  Program\Formatting date  and time\obj\Debug\net6.0\Formatting date  and time.dll
+D:\C#  Program\Formatting date  and time\obj\Debug\net6.0\refint\Formatting date  and time.dll
+D:\C#  Program\Formatting date  and time\obj\Debug\net6.0\Formatting date  and time.pdb
+D:\C#  Program\Formatting date  and time\obj\Debug\net6.0\Formatting date  and time.genruntimeconfig.cache
+D:\C#  Program\Formatting date  and time\obj\Debug\net6.0\ref\Formatting date  and time.dll

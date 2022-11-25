@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "variables and datatypes/1.0.0": {
+        "runtime": {
+          "variables and datatypes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "variables and datatypes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

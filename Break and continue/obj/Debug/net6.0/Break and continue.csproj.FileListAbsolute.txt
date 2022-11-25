@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Break and continue\obj\Debug\net6.0\Break and continue.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Break and continue\obj\Debug\net6.0\Break and continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Break and continue\obj\Debug\net6.0\Break and continue.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Break and continue\obj\Debug\net6.0\Break and continue.AssemblyInfo.cs
+C:\Users\User\Desktop\Break and continue\obj\Debug\net6.0\Break and continue.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Break and continue\bin\Debug\net6.0\Break and continue.exe
+C:\Users\User\Desktop\Break and continue\bin\Debug\net6.0\Break and continue.deps.json
+C:\Users\User\Desktop\Break and continue\bin\Debug\net6.0\Break and continue.runtimeconfig.json
+C:\Users\User\Desktop\Break and continue\bin\Debug\net6.0\Break and continue.dll
+C:\Users\User\Desktop\Break and continue\bin\Debug\net6.0\Break and continue.pdb
+C:\Users\User\Desktop\Break and continue\obj\Debug\net6.0\Break and continue.dll
+C:\Users\User\Desktop\Break and continue\obj\Debug\net6.0\refint\Break and continue.dll
+C:\Users\User\Desktop\Break and continue\obj\Debug\net6.0\Break and continue.pdb
+C:\Users\User\Desktop\Break and continue\obj\Debug\net6.0\Break and continue.genruntimeconfig.cache
+C:\Users\User\Desktop\Break and continue\obj\Debug\net6.0\ref\Break and continue.dll

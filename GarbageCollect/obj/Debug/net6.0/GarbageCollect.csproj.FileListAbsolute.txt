@@ -1,0 +1,15 @@
+D:\C#  Program\GarbageCollect\bin\Debug\net6.0\GarbageCollect.exe
+D:\C#  Program\GarbageCollect\bin\Debug\net6.0\GarbageCollect.deps.json
+D:\C#  Program\GarbageCollect\bin\Debug\net6.0\GarbageCollect.runtimeconfig.json
+D:\C#  Program\GarbageCollect\bin\Debug\net6.0\GarbageCollect.dll
+D:\C#  Program\GarbageCollect\bin\Debug\net6.0\GarbageCollect.pdb
+D:\C#  Program\GarbageCollect\obj\Debug\net6.0\GarbageCollect.csproj.AssemblyReference.cache
+D:\C#  Program\GarbageCollect\obj\Debug\net6.0\GarbageCollect.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#  Program\GarbageCollect\obj\Debug\net6.0\GarbageCollect.AssemblyInfoInputs.cache
+D:\C#  Program\GarbageCollect\obj\Debug\net6.0\GarbageCollect.AssemblyInfo.cs
+D:\C#  Program\GarbageCollect\obj\Debug\net6.0\GarbageCollect.csproj.CoreCompileInputs.cache
+D:\C#  Program\GarbageCollect\obj\Debug\net6.0\GarbageCollect.dll
+D:\C#  Program\GarbageCollect\obj\Debug\net6.0\refint\GarbageCollect.dll
+D:\C#  Program\GarbageCollect\obj\Debug\net6.0\GarbageCollect.pdb
+D:\C#  Program\GarbageCollect\obj\Debug\net6.0\GarbageCollect.genruntimeconfig.cache
+D:\C#  Program\GarbageCollect\obj\Debug\net6.0\ref\GarbageCollect.dll

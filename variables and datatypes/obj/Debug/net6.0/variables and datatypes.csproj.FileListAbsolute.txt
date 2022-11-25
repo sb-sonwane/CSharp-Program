@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\variables and datatypes\bin\Debug\net6.0\variables and datatypes.exe
+C:\Users\User\Desktop\variables and datatypes\bin\Debug\net6.0\variables and datatypes.deps.json
+C:\Users\User\Desktop\variables and datatypes\bin\Debug\net6.0\variables and datatypes.runtimeconfig.json
+C:\Users\User\Desktop\variables and datatypes\bin\Debug\net6.0\variables and datatypes.dll
+C:\Users\User\Desktop\variables and datatypes\bin\Debug\net6.0\variables and datatypes.pdb
+C:\Users\User\Desktop\variables and datatypes\obj\Debug\net6.0\variables and datatypes.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\variables and datatypes\obj\Debug\net6.0\variables and datatypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\variables and datatypes\obj\Debug\net6.0\variables and datatypes.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\variables and datatypes\obj\Debug\net6.0\variables and datatypes.AssemblyInfo.cs
+C:\Users\User\Desktop\variables and datatypes\obj\Debug\net6.0\variables and datatypes.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\variables and datatypes\obj\Debug\net6.0\variables and datatypes.dll
+C:\Users\User\Desktop\variables and datatypes\obj\Debug\net6.0\refint\variables and datatypes.dll
+C:\Users\User\Desktop\variables and datatypes\obj\Debug\net6.0\variables and datatypes.pdb
+C:\Users\User\Desktop\variables and datatypes\obj\Debug\net6.0\variables and datatypes.genruntimeconfig.cache
+C:\Users\User\Desktop\variables and datatypes\obj\Debug\net6.0\ref\variables and datatypes.dll
